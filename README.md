@@ -1,5 +1,5 @@
 # Hello Python!
-This repository is designed to introduce special topics in the Python scripting language. It is intended for use in a special topics course on Python. All examples are in Jupyter Notebooks.
+This repository is designed to introduce special topics in the Python scripting language. All examples are in Jupyter Notebooks.
 
 ***Currently, this repository is under heavy construction. Therefore, some examples may be incomplete or erroneous until an official release is communicated.***
 
