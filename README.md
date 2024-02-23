@@ -23,10 +23,12 @@ This repository is designed to introduce special topics in the Python scripting 
  * Game Engines
 	 * PyGame
  * Web APIs
-	 * Django
+ 	* Django
  * Geospatial
-	 * GeoPandas
+	* GeoPandas
  * Audio Processing
+ 	* Visualization
+   	* Spectrograms
 
 ## Dependencies
 Examples in this repository depend on various Python versions. Required versions will be listed in each subdirectory. A requirements.txt file will be provided as well and it is encouraged to set up a virtual environment for each example directory. 
