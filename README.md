@@ -1,5 +1,8 @@
 # Hello Python!
-This repository is designed to introduce special topics in the Python scripting language. All examples are in Jupyter Notebooks.
+This repository is designed to introduce special topics in the Python scripting language. Most examples are in Jupyter Notebooks. Some examples live as modules in each directory. 
+
+## Dependencies
+Examples in this repository depend on various Python versions. Required versions will be listed in each subdirectory. A requirements.txt file will be provided as well and it is encouraged to set up a virtual environment for each example directory. 
 
 ***Currently, this repository is under heavy construction. Therefore, some examples may be incomplete or erroneous until an official release is communicated.***
 
@@ -30,8 +33,7 @@ This repository is designed to introduce special topics in the Python scripting 
  	* Visualization
    	* Spectrograms
 
-## Dependencies
-Examples in this repository depend on various Python versions. Required versions will be listed in each subdirectory. A requirements.txt file will be provided as well and it is encouraged to set up a virtual environment for each example directory. 
+
 
 
 Written with [StackEdit](https://stackedit.io/).
