@@ -1,0 +1,12 @@
+setuptools==56.0.0
+cloudpickle==1.6.0
+gym==0.20.0
+gym-notices==0.0.8
+gym-retro==0.8.0
+importlib-metadata==7.0.0
+neat-python==0.92
+numpy==1.20.0
+opencv-python==4.5.1.48
+pyglet==1.5.28
+zipp==3.17.0
+pip==21.1.1
