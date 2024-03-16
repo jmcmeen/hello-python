@@ -99,7 +99,7 @@ population.add_reporter(stats)
 population.add_reporter(neat.Checkpointer(10))
 
 # the winning network, run for x generations
-winner = population.run(eval_genomes, 1)
+winner = population.run(eval_genomes, 1000)
 
 # save the winning network to a binary file to reload later
 with open('winner-act1.pkl', 'wb') as output:
