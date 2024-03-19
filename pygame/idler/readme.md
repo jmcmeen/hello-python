@@ -1,3 +1,1 @@
-run 
-
-python idle.py
+run: python idler.py

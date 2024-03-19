@@ -23,7 +23,7 @@ Examples in this repository depend on various Python versions. Required versions
 	 * NEAT
 	 * PyGAD
 	 * Gym/ Gym Retro
- * Game Engines
+ * Game Development
 	 * PyGame
  * Web APIs
  	* Django
@@ -32,8 +32,5 @@ Examples in this repository depend on various Python versions. Required versions
  * Audio Processing
  	* Visualization
    	* Spectrograms
-
-
-
 
 Written with [StackEdit](https://stackedit.io/).
