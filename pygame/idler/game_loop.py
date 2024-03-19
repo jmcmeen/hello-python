@@ -34,6 +34,8 @@ def start():
                     world.blip.action_cooldown *= .9
                 elif event.key == pygame.K_DOWN:
                     world.blip.action_cooldown *= 1.1
+                elif event.key == pygame.K_SPACE:
+                    world.grid.toggle_lines()
 
         # update
         world.update(dt)

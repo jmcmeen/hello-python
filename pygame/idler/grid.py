@@ -22,3 +22,6 @@ class Grid():
                 pygame.draw.line(screen, green, (x, 0), (x, self.height))
             for y in range(0, self.height, self.cell_size):
                 pygame.draw.line(screen, green, (0, y), (self.width, y))
+
+    def toggle_lines(self):
+        self.render_lines = not self.render_lines

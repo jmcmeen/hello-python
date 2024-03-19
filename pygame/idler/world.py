@@ -5,7 +5,7 @@ from blip import Blip
 class World:
     def __init__(self, cell_size, num_rows, num_cols):
         # create the grid
-        self.grid = Grid(cell_size, num_rows, num_cols)
+        self.grid = Grid(cell_size, num_rows, num_cols, render_lines=True)
         
         # create the blip
         self.blip = Blip(size=cell_size, 
