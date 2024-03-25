@@ -9,7 +9,7 @@ def start():
     FPS = 240 # FPS
 
     # World
-    world = World(cell_size = 20, num_rows = 20, num_cols=20)
+    world = World(cell_size = 25, num_rows = 25, num_cols=40)
 
     # pygame setup
     pygame.init()
